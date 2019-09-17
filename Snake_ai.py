@@ -1,4 +1,4 @@
-# import all the libraries
+# import all the libraries 
 import random as rdm  # to generate random numbers
 from tkinter import *  # for the display window
 import time  # to wait some time when needed
